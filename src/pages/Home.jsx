@@ -33,8 +33,8 @@ const Home = () => {
             </div>
             <div className="mt-5 d-flex flex-wrap gap-3 justify-content-center justify-content-lg-start text-start">
               <div className="hero-stat p-3 rounded-4 bg-white shadow-sm">
-                <h3 className="h5 mb-1">2+</h3>
-                <p className="mb-0 text-muted">Years experience</p>
+                <h3 className="h5 mb-1">6</h3>
+                <p className="mb-0 text-muted">Month experience</p>
               </div>
               <div className="hero-stat p-3 rounded-4 bg-white shadow-sm">
                 <h3 className="h5 mb-1">10+</h3>
