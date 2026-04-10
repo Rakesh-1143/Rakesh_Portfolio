@@ -32,7 +32,7 @@ const Contact = () => {
                 <strong>Email:</strong> rakeshreddy261002@gmail.com
               </p>
               <p className="mb-0">
-                <strong>Location:</strong> Hyderabad, India
+                <strong>Location:</strong> Bengaluru, India
               </p>
             </div>
           </div>
