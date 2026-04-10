@@ -12,7 +12,7 @@ const Navbar = () => {
     <nav className={`navbar navbar-expand-lg fixed-top ${navbarClass}`}>
       <div className="container">
         <a className="navbar-brand fw-bold" href="#home">
-          Rakesh<span className="text-primary">.</span>
+          Rakesh Reddy<span className="text-primary">.</span>
         </a>
         <button
           className="navbar-toggler"

@@ -20,7 +20,7 @@ const Home = () => {
             <div className="d-flex flex-column flex-sm-row gap-3 justify-content-center justify-content-lg-start">
               <a
                 href="#contact"
-                className="btn btn-primary btn-lg px-4 py-3 rounded-pill"
+                className="btn btn-primary text-light btn-lg px-4 py-3 rounded-pill"
               >
                 Let's Connect
               </a>
