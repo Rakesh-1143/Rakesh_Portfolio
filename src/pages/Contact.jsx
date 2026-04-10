@@ -25,7 +25,8 @@ const Contact = () => {
             <div className="p-5 rounded-5 shadow-xl bg-white border border-white">
               <h2>Contact</h2>
               <p className="text-muted mb-4">
-                Ready to collaborate on your next project? Share the details and I will reply quickly.
+                Ready to collaborate on your next project? Share the details and
+                I will reply quickly.
               </p>
               <p className="mb-2">
                 <strong>Email:</strong> rakeshreddy261002@gmail.com
@@ -73,7 +74,10 @@ const Contact = () => {
                     required
                   ></textarea>
                 </div>
-                <button className="btn btn-primary btn-lg w-100 rounded-pill" type="submit">
+                <button
+                  className="btn btn-primary btn-lg w-100 rounded-pill"
+                  type="submit"
+                >
                   Send Message
                 </button>
               </form>

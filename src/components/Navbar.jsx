@@ -5,7 +5,8 @@ import { ThemeContext } from "../context/ThemeContext";
 const Navbar = () => {
   const { theme } = useContext(ThemeContext);
   const [collapsed, setCollapsed] = useState(true);
-  const navbarClass = theme === "dark" ? "navbar-custom navbar-custom-dark" : "navbar-custom";
+  const navbarClass =
+    theme === "dark" ? "navbar-custom navbar-custom-dark" : "navbar-custom";
 
   return (
     <nav className={`navbar navbar-expand-lg fixed-top ${navbarClass}`}>
